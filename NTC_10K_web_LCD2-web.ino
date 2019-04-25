@@ -7,8 +7,8 @@
 #include <ESP8266HTTPClient.h>
 
 // wifi parameter
-#define ssid      "FreeLyric"       // WiFi SSID
-#define password  "Eurosport2007obeoes"  // WiFi password
+#define ssid      "myssid"       // WiFi SSID
+#define password  "mypasswd"  // WiFi password
 #define ip "192.168.1.20:8080"
 #define idx "10"
 
